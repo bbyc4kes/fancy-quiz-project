@@ -2,6 +2,9 @@
 
 The Fancy Quiz Project is a simple yet engaging React quiz application designed to offer users an enjoyable quiz-taking experience. With essential functionality at its core, this project provides a sleek and modern interface for navigating through questions effortlessly.
 
+![image](https://github.com/bbyc4kes/fancy-quiz-project/assets/153362892/8fc0d86d-f105-4e4c-b42e-74c1d9613529)
+
+
 ### Key Features:
 <ul>
     
